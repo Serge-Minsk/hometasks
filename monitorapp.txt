@@ -1,0 +1,9 @@
+
+SNAPSHOT 1: [2016-03-25 14:19:08.483243]
+Number of CPUs: 4
+Number of Physical CPUs: 4
+Overall CPU load: scpustats(ctx_switches=80562721, interrupts=22471792, soft_interrupts=12632001, syscalls=0)
+Overall virtual memory usage: svmem(total=12358217728, available=9894195200, percent=19.9, used=4091199488, free=8267018240, active=2906337280, inactive=646176768, buffers=166658048, cached=1460518912)
+Overall swap memory usage: sswap(total=12884897792, used=0, free=12884897792, percent=0.0, sin=0, sout=0)
+IO information: {'sdb1': sdiskio(read_count=861, write_count=13, read_bytes=23154688, write_bytes=8704, read_time=2602, write_time=12739, read_merged_count=17385, write_merged_count=4, busy_time=7150), 'sda2': sdiskio(read_count=328, write_count=0, read_bytes=1470464, write_bytes=0, read_time=315, write_time=0, read_merged_count=31, write_merged_count=0, busy_time=315), 'sda3': sdiskio(read_count=48749, write_count=57655, read_bytes=1515422720, write_bytes=2315481088, read_time=226058, write_time=1632258, read_merged_count=15094, write_merged_count=506848, busy_time=300682), 'sda1': sdiskio(read_count=254, write_count=0, read_bytes=1040384, write_bytes=0, read_time=594, write_time=0, read_merged_count=0, write_merged_count=0, busy_time=594)}
+Network information: snetio(bytes_sent=51736339, bytes_recv=233277111, packets_sent=203884, packets_recv=565474, errin=0, errout=0, dropin=0, dropout=0)
