@@ -1,27 +1,27 @@
 
-SNAPSHOT 2: [2016-03-28 12:39:15.187125]
+SNAPSHOT 1: [2016-03-29 14:20:27.575026]
 Number of CPUs
 4
 Number of Physical CPUs
 4
 Overall CPU load
 {
-    "interrupts": 14229099, 
-    "soft_interrupts": 7922361, 
+    "interrupts": 10725567, 
+    "soft_interrupts": 9509188, 
     "syscalls": 0, 
-    "ctx_switches": 45933303
+    "ctx_switches": 34756395
 }
 Overall virtual memory usage
 {
-    "available": 10227924992, 
-    "used": 3696246784, 
-    "cached": 1419112448, 
-    "percent": 17.2, 
-    "free": 8661970944, 
-    "inactive": 788684800, 
-    "active": 2471108608, 
+    "available": 9884639232, 
+    "used": 4030136320, 
+    "cached": 1350434816, 
+    "percent": 20.0, 
+    "free": 8328081408, 
+    "inactive": 801751040, 
+    "active": 2678259712, 
     "total": 12358217728, 
-    "buffers": 146841600
+    "buffers": 206123008
 }
 Overall swap memory usage
 {
@@ -39,71 +39,71 @@ IO information
         0, 
         1470464, 
         0, 
-        567, 
+        460, 
         0, 
         31, 
         0, 
-        567
+        460
     ], 
     "sda3": [
-        41938, 
-        44489, 
-        1437975552, 
-        1556541440, 
-        236482, 
-        719686, 
-        15221, 
-        335250, 
-        251234
+        51247, 
+        54118, 
+        1401340928, 
+        1467633664, 
+        216419, 
+        958148, 
+        15402, 
+        303988, 
+        262444
     ], 
     "sda1": [
         254, 
         0, 
         1040384, 
         0, 
-        1494, 
+        581, 
         0, 
         0, 
         0, 
-        1494
+        581
     ]
 }
 Network information
 {
-    "packets_sent": 45867, 
-    "bytes_recv": 78653192, 
-    "packets_recv": 427886, 
+    "packets_sent": 193756, 
+    "bytes_recv": 150776675, 
+    "packets_recv": 453275, 
     "dropin": 0, 
     "dropout": 0, 
-    "bytes_sent": 8804807, 
+    "bytes_sent": 59952296, 
     "errout": 0, 
     "errin": 0
 }
 
 
-SNAPSHOT 3: [2016-03-28 12:40:15.248237]
+SNAPSHOT 2: [2016-03-29 14:21:27.641124]
 Number of CPUs
 4
 Number of Physical CPUs
 4
 Overall CPU load
 {
-    "interrupts": 14285069, 
-    "soft_interrupts": 7947451, 
+    "interrupts": 10763581, 
+    "soft_interrupts": 9523356, 
     "syscalls": 0, 
-    "ctx_switches": 46097840
+    "ctx_switches": 34865132
 }
 Overall virtual memory usage
 {
-    "available": 10225090560, 
-    "used": 3698774016, 
-    "cached": 1418706944, 
-    "percent": 17.3, 
-    "free": 8659443712, 
-    "inactive": 788119552, 
-    "active": 2474651648, 
+    "available": 9867837440, 
+    "used": 4047994880, 
+    "cached": 1351426048, 
+    "percent": 20.2, 
+    "free": 8310222848, 
+    "inactive": 802840576, 
+    "active": 2694172672, 
     "total": 12358217728, 
-    "buffers": 146939904
+    "buffers": 206188544
 }
 Overall swap memory usage
 {
@@ -121,71 +121,71 @@ IO information
         0, 
         1470464, 
         0, 
-        567, 
+        460, 
         0, 
         31, 
         0, 
-        567
+        460
     ], 
     "sda3": [
-        41938, 
-        44678, 
-        1437975552, 
-        1564811264, 
-        236482, 
-        721318, 
-        15221, 
-        337079, 
-        251863
+        51247, 
+        54203, 
+        1401340928, 
+        1471320064, 
+        216419, 
+        958519, 
+        15402, 
+        304803, 
+        262739
     ], 
     "sda1": [
         254, 
         0, 
         1040384, 
         0, 
-        1494, 
+        581, 
         0, 
         0, 
         0, 
-        1494
+        581
     ]
 }
 Network information
 {
-    "packets_sent": 45915, 
-    "bytes_recv": 78739774, 
-    "packets_recv": 428801, 
+    "packets_sent": 193779, 
+    "bytes_recv": 150813402, 
+    "packets_recv": 453589, 
     "dropin": 0, 
     "dropout": 0, 
-    "bytes_sent": 8811072, 
+    "bytes_sent": 59954865, 
     "errout": 0, 
     "errin": 0
 }
 
 
-SNAPSHOT 4: [2016-03-28 12:41:15.307632]
+SNAPSHOT 3: [2016-03-29 14:22:27.703133]
 Number of CPUs
 4
 Number of Physical CPUs
 4
 Overall CPU load
 {
-    "interrupts": 14329975, 
-    "soft_interrupts": 7962098, 
+    "interrupts": 10802862, 
+    "soft_interrupts": 9537410, 
     "syscalls": 0, 
-    "ctx_switches": 46223571
+    "ctx_switches": 34976476
 }
 Overall virtual memory usage
 {
-    "available": 10221043712, 
-    "used": 3702849536, 
-    "cached": 1418686464, 
-    "percent": 17.3, 
-    "free": 8655368192, 
-    "inactive": 788180992, 
-    "active": 2478694400, 
+    "available": 9853108224, 
+    "used": 4062220288, 
+    "cached": 1350860800, 
+    "percent": 20.3, 
+    "free": 8295997440, 
+    "inactive": 802324480, 
+    "active": 2709303296, 
     "total": 12358217728, 
-    "buffers": 146989056
+    "buffers": 206249984
 }
 Overall swap memory usage
 {
@@ -203,71 +203,71 @@ IO information
         0, 
         1470464, 
         0, 
-        567, 
+        460, 
         0, 
         31, 
         0, 
-        567
+        460
     ], 
     "sda3": [
-        41938, 
-        44737, 
-        1437975552, 
-        1565884416, 
-        236482, 
-        722020, 
-        15221, 
-        337282, 
-        252185
+        51247, 
+        54260, 
+        1401340928, 
+        1472135168, 
+        216419, 
+        959318, 
+        15402, 
+        304945, 
+        263099
     ], 
     "sda1": [
         254, 
         0, 
         1040384, 
         0, 
-        1494, 
+        581, 
         0, 
         0, 
         0, 
-        1494
+        581
     ]
 }
 Network information
 {
-    "packets_sent": 45960, 
-    "bytes_recv": 78828457, 
-    "packets_recv": 429741, 
+    "packets_sent": 193821, 
+    "bytes_recv": 150843070, 
+    "packets_recv": 453841, 
     "dropin": 0, 
     "dropout": 0, 
-    "bytes_sent": 8817458, 
+    "bytes_sent": 59961107, 
     "errout": 0, 
     "errin": 0
 }
 
 
-SNAPSHOT 5: [2016-03-28 12:42:15.373112]
+SNAPSHOT 4: [2016-03-29 14:23:27.764329]
 Number of CPUs
 4
 Number of Physical CPUs
 4
 Overall CPU load
 {
-    "interrupts": 14375451, 
-    "soft_interrupts": 7977117, 
+    "interrupts": 10847063, 
+    "soft_interrupts": 9559587, 
     "syscalls": 0, 
-    "ctx_switches": 46349170
+    "ctx_switches": 35110633
 }
 Overall virtual memory usage
 {
-    "available": 10213281792, 
-    "used": 3710660608, 
-    "cached": 1418686464, 
-    "percent": 17.4, 
-    "free": 8647557120, 
-    "inactive": 788238336, 
-    "active": 2487029760, 
+    "available": 9856720896, 
+    "used": 4063629312, 
+    "cached": 1355808768, 
+    "percent": 20.2, 
+    "free": 8294588416, 
+    "inactive": 807342080, 
+    "active": 2705408000, 
     "total": 12358217728, 
-    "buffers": 147038208
+    "buffers": 206323712
 }
 Overall swap memory usage
 {
@@ -285,43 +285,125 @@ IO information
         0, 
         1470464, 
         0, 
-        567, 
+        460, 
         0, 
         31, 
         0, 
-        567
+        460
     ], 
     "sda3": [
-        41938, 
-        44768, 
-        1437975552, 
-        1566060544, 
-        236482, 
-        722211, 
-        15221, 
-        337294, 
-        252364
+        51247, 
+        54370, 
+        1401340928, 
+        1474015232, 
+        216419, 
+        959723, 
+        15402, 
+        305294, 
+        263493
     ], 
     "sda1": [
         254, 
         0, 
         1040384, 
         0, 
-        1494, 
+        581, 
         0, 
         0, 
         0, 
-        1494
+        581
     ]
 }
 Network information
 {
-    "packets_sent": 45997, 
-    "bytes_recv": 78915926, 
-    "packets_recv": 430693, 
+    "packets_sent": 193904, 
+    "bytes_recv": 150891091, 
+    "packets_recv": 454167, 
     "dropin": 0, 
     "dropout": 0, 
-    "bytes_sent": 8822925, 
+    "bytes_sent": 59982988, 
+    "errout": 0, 
+    "errin": 0
+}
+
+
+SNAPSHOT 5: [2016-03-29 14:24:27.829902]
+Number of CPUs
+4
+Number of Physical CPUs
+4
+Overall CPU load
+{
+    "interrupts": 10888423, 
+    "soft_interrupts": 9577923, 
+    "syscalls": 0, 
+    "ctx_switches": 35240229
+}
+Overall virtual memory usage
+{
+    "available": 9841491968, 
+    "used": 4073201664, 
+    "cached": 1350086656, 
+    "percent": 20.4, 
+    "free": 8285016064, 
+    "inactive": 802295808, 
+    "active": 2720092160, 
+    "total": 12358217728, 
+    "buffers": 206389248
+}
+Overall swap memory usage
+{
+    "used": 0, 
+    "percent": 0.0, 
+    "free": 12884897792, 
+    "sout": 0, 
+    "total": 12884897792, 
+    "sin": 0
+}
+IO information
+{
+    "sda2": [
+        328, 
+        0, 
+        1470464, 
+        0, 
+        460, 
+        0, 
+        31, 
+        0, 
+        460
+    ], 
+    "sda3": [
+        51247, 
+        54538, 
+        1401340928, 
+        1482186752, 
+        216419, 
+        961237, 
+        15402, 
+        307120, 
+        264330
+    ], 
+    "sda1": [
+        254, 
+        0, 
+        1040384, 
+        0, 
+        581, 
+        0, 
+        0, 
+        0, 
+        581
+    ]
+}
+Network information
+{
+    "packets_sent": 193965, 
+    "bytes_recv": 150920327, 
+    "packets_recv": 454415, 
+    "dropin": 0, 
+    "dropout": 0, 
+    "bytes_sent": 59991438, 
     "errout": 0, 
     "errin": 0
 }
